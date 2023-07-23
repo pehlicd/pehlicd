@@ -1,0 +1,1 @@
+![gopher_coffee](img/gopher_coffee.gif)
