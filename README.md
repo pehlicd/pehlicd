@@ -1,7 +1,7 @@
 <img align="left" src="./img/gopher_coffee.gif">
 
 ### Hey!
-> I sometimes brew **code**.
+> I occasionally brew **code**.
 
 [![views](https://komarev.com/ghpvc/?username=pehlicd&style=flat&color=79D4FD&label=views)](https://github.com/pehlicd)
 [![Go](https://img.shields.io/badge/%20-%20?style=social&logo=go)](https://go.dev/)
